@@ -1,0 +1,6 @@
+framework module Pods_JobsCalendar {
+  umbrella header "Pods-JobsCalendar-umbrella.h"
+
+  export *
+  module * { export * }
+}
